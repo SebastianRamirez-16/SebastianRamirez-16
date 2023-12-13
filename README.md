@@ -55,7 +55,7 @@ sebas_200702
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="www.linkedin.com/in/sebastian-ramirez-zapata-a0224a20b"><img src="https://img.shields.io/badge/-Sebastian%20Ramirez%20Zapata-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebastian-ramirez-zapata-a0224a20b"><img src="https://img.shields.io/badge/-Sebastian%20Ramirez%20Zapata-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:persebas11.com"><img src="https://img.shields.io/badge/-persebas11@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sebas_200702/?hl=es-la"><img src="https://img.shields.io/badge/-sebas%20200702-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/sebas160220"><img src="https://img.shields.io/badge/-sebas160220-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
